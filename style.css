@@ -5,8 +5,3 @@ body {
 #nav-header a:hover {
   color: pink;
 }
-
-.bg-pic-about-me {
-  background: url(./assets/images/Great_Wave_off_Kanagawa2.jpg);
-  background-size: 100%;
-}
