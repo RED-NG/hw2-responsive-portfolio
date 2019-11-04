@@ -1,0 +1,7 @@
+body {
+  background-color: #fed8b1;
+}
+
+#nav-header a:hover {
+  color: pink;
+}
