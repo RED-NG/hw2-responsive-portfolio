@@ -5,3 +5,11 @@ body {
 #nav-header a:hover {
   color: pink;
 }
+
+.box {
+  display: flex;
+}
+
+.img {
+  width: fit-content;
+}
